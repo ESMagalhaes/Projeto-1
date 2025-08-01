@@ -154,7 +154,7 @@ Container
 ===============
 */
 main {
-  min-height: calc(100vh - 3rem);
+  min-height: calc(70vh - 3rem);
   display: grid;
   place-items: center;
 }
